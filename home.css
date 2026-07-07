@@ -34,14 +34,71 @@ body{
 }
 
 .tecnologias{
-    padding-left: 50%;
+    padding-left: 33%;
     
 }
 
+.t1{
+    padding-left: 45%;
+
+}
 .tecnologias ul{
     display: flex;
     list-style: none;
     gap: 30px;
     margin: 0;
     padding: 0;
+}
+
+.html{
+    background: orange;
+    color: white;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.css{
+    background-color: darkblue;
+    color: white;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.js{
+    background-color: yellow;
+    color: white;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.excel{
+    background-color: green;
+    color: white;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.sql{
+    background-color: red;
+    color: white;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.python{
+    background-color: rgb(235, 235, 0);
+    color: white;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
 }
