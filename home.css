@@ -1,0 +1,47 @@
+body{
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.menu{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: linear-gradient(to right, #0F172A, #2563EB, #60A5FA);    
+    color: white;
+    padding: 15px 40px;
+}
+
+.menu ul{
+    display: flex;
+    list-style: none;
+    gap: 30px;
+    margin: 0;
+    padding: 0;
+}
+
+.menu a{
+    color: white;
+    text-decoration: none;
+}
+
+.menu a:hover{
+    color: gainsboro;
+}
+
+.titulo{
+    padding-left: 15px;
+}
+
+.tecnologias{
+    padding-left: 50%;
+    
+}
+
+.tecnologias ul{
+    display: flex;
+    list-style: none;
+    gap: 30px;
+    margin: 0;
+    padding: 0;
+}
