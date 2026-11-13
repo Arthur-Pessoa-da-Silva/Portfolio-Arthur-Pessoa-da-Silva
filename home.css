@@ -50,6 +50,10 @@ body{
     text-align: center;
     margin-top: 0px;
     padding: 20px;
+    background-color: #aaaaaa;
+    border-bottom: 5px solid rgb(105, 105, 105);
+    box-shadow: 0 5px 15px rgba(0,0,0,.2);
+
 }
 
 .titulo h1{
@@ -60,7 +64,7 @@ body{
 
 .titulo p{
     font-size: 20px;
-    color: #555;
+    color: #000000;
     line-height: 1.6;
 }
 
@@ -127,6 +131,10 @@ body{
 
 .python{
     background: #0c3b62;
+}
+
+.git{
+    background-color: #3700ac;
 }
 
 /* ================= BOTÃO ================= */
